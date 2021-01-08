@@ -1,0 +1,9 @@
+{
+  "image": "hashicorp/terraform:0.14.4",
+  "extensions": ["hashicorp.terraform"],
+  "settings": {
+    "[terraform]": {
+      "editor.formatOnSave": true
+    }
+  }
+}
